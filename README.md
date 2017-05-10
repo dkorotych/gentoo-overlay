@@ -1,5 +1,5 @@
 # gentoo-overlay
-The custom overlay for [Gentoo](https://gentoo.org/)
+Desktop and [Java](https://go.java/developer-opportunities/index.html) oriented personal [Gentoo](https://gentoo.org/) overlay
 
 ## How to use this overlay
 ### With Layman
