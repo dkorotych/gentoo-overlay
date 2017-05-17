@@ -1,0 +1,9 @@
+# required by www-client/firefox-45.8.0::gentoo[system-libvpx]
+# required by firefox (argument)
+>=media-libs/libvpx-1.5.0   postproc
+
+# required by www-client/firefox-45.8.0::gentoo[system-sqlite]
+# required by firefox (argument)
+>=dev-db/sqlite-3.17.0      secure-delete
+
+www-client/firefox          hwaccel wifi

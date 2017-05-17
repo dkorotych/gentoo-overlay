@@ -6,7 +6,7 @@ Desktop and [Java](https://go.java/developer-opportunities/index.html) oriented 
 
 Invoke the following:
 ```
-layman -o https://raw.github.com/dkorotych/gentoo-overlay/master/repositories.xml -f -a dkorotych-overlay
+sudo layman -o https://raw.github.com/dkorotych/gentoo-overlay/master/repositories.xml -f -a dkorotych-overlay
 ```
 Or read the instructions on the [Gentoo Wiki](http://wiki.gentoo.org/wiki/Layman#Adding_custom_overlays).
 

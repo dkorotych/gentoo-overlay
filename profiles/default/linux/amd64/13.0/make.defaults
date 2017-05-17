@@ -1,0 +1,13 @@
+OPTIMIZATION="custom-cflags custom-optimization system-harfbuzz system-cairo system-icu system-jpeg system-libevent system-libvpx system-sqlite"
+DISABLE_SUPPORT="-qt3support -qt4 -qt5 -kde"
+USE="${USE} ${DISABLE_SUPPORT} ${OPTIMIZATION} gtk3 caps idn jit natspec lzma lz4 lzo infinality icu webp jpeg2k xmp networkmanager dmx ffmpeg v4l vimeo"
+
+FEATURES="cgroup clean-logs compress-build-logs compressdebug noinfo"
+
+LINGUAS="en ru"
+L10N="en ru"
+
+NETBEANS_MODULES="apisupport java javafx profiler websvccommon enterprise extide groovy webcommon"
+
+DISTDIR="/opt/distfiles"
+PKGDIR="${DISTDIR}/packages"
