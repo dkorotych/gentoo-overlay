@@ -3,8 +3,8 @@
 <repositories>
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[dkorotych-overlay]]></name>
-    <description lang="en"><![CDATA[Desktop and Java oriented personal overlay]]></description>
-    <description lang="ru"><![CDATA[Персональный оверлей, расчитанный на десктоп и Java-разработку]]></description>
+    <description lang="en"><![CDATA[Gnome desktop and Java oriented personal overlay]]></description>
+    <description lang="ru"><![CDATA[Персональный оверлей, расчитанный на Gnome десктоп и Java-разработку]]></description>
     <homepage>https://github.com/dkorotych/gentoo-overlay</homepage>
     <owner type="person">
       <email>dkorotych@gmail.com</email>

@@ -1,0 +1,6 @@
+app-admin/lastpass-binary-component ~amd64
+dev-java/gradle-bin                 ~amd64
+net-im/skypeforlinux                ~amd64
+net-im/telegram-desktop-bin         ~amd64
+net-misc/dropbox                    ~amd64
+x11-themes/arc-theme                ~amd64
