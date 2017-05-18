@@ -1,6 +1,6 @@
 virtual/cron            sys-process/systemd-cron
 virtual/editor          app-editors/nano
-virtual/jdk:1.8         dev-java/oracle-jdk-bin:1.8
-virtual/jre:1.8         dev-java/oracle-jdk-bin:1.8
+virtual/jdk             dev-java/oracle-jdk-bin:1.8
+virtual/jre             dev-java/oracle-jdk-bin:1.8
 virtual/linux-sources   sys-kernel/gentoo-sources
 virtual/ooo             app-office/libreoffice

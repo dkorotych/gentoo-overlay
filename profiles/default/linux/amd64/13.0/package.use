@@ -22,7 +22,7 @@ media-plugins/gst-plugins-meta      dv http mms taglib theora v4l vcd vpx wavpac
 media-video/ffmpeg                  bluray cdio ieee1394 librtmp libv4l v4l openh264 theora vpx wavpack x265
 media-video/libav                   cdio ieee1394 rtmp theora threads vpx wavpack x265 samba
 net-fs/samba                        client
-net-libs/gtk-vnc-0.6.0              python
+net-libs/gtk-vnc                    python
 net-misc/curl                       http2 metalink rtmp samba threads
 net-misc/dhcp                       -server
 net-misc/dropbox                    -X -librsync-bundled
