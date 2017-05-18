@@ -1,0 +1,41 @@
+app-emulation/docker                overlay -device-mapper
+app-misc/tracker                    firefox-bookmarks gsf playlist rss -ffmpeg
+app-office/libreoffice              -bluetooth gtk3 googledrive jemalloc
+app-portage/layman                  git mercurial subversion sync-plugin-portage
+app-text/evince                     djvu dvi
+dev-db/sqlite                       secure-delete
+dev-java/gradle-bin                 source doc
+dev-java/junit                      source
+dev-java/oracle-jdk-bin             alsa derby doc javafx jce source visualvm
+dev-java/swing-layout               source
+dev-util/netbeans                   -l10n_en
+dev-vcs/git                         -gtk
+gnome-base/gnome-extra-apps         -games
+gnome-base/gvfs                     archive bluray fuse google gphoto2 ios mtp samba
+gnome-extra/evolution-data-server   google
+#gnome-extra/sushi                  office
+mail-client/evolution               archive geolocation highlight
+media-libs/gegl                     raw
+media-libs/libvpx                   postproc
+media-libs/mesa                     d3d9 xa xvmc
+media-plugins/gst-plugins-meta      dv http mms taglib theora v4l vcd vpx wavpack
+media-video/ffmpeg                  bluray cdio ieee1394 librtmp libv4l v4l openh264 theora vpx wavpack x265
+media-video/libav                   cdio ieee1394 rtmp theora threads vpx wavpack x265 samba
+net-fs/samba                        client
+net-libs/gtk-vnc-0.6.0              python
+net-misc/curl                       http2 metalink rtmp samba threads
+net-misc/dhcp                       -server
+net-misc/dropbox                    -X -librsync-bundled
+net-misc/networkmanager             -wext wifi
+net-misc/spice-gtk                  usbredir
+net-wireless/wpa_supplicant         p2p wps
+sys-apps/systemd                    gnuefi nat xkb
+sys-devel/llvm                      clang
+sys-kernel/gentoo-sources           symlink experimental
+sys-libs/ntdb                       python
+sys-libs/tdb                        python
+sys-libs/tevent                     python
+sys-libs/zlib                       minizip
+virtual/ffmpeg                      theora threads
+www-client/firefox                  hwaccel wifi
+x11-themes/arc-theme                gtk2 gtk3 gnome-shell

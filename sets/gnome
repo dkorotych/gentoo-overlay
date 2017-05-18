@@ -1,6 +1,6 @@
-gnome-base/gnome-extra-apps         -games
-gnome-base/gnome                    -accessibility -classic
+gnome-base/gnome
 gnome-extra/gnome-shell-frippery
-x11-themes/arc-theme                gtk2 gtk3 gnome-shell
+gnome-extra/gnome-shell-extensions-topicons-plus
+x11-themes/arc-theme
 x11-themes/arc-icon-theme
 e-extra/gnome-logs
