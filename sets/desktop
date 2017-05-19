@@ -2,11 +2,11 @@
 @gnome
 @java-developer
 @office
+dev-util/meld
 media-libs/libtxc_dxtn
 net-im/skypeforlinux
 net-im/telegram-desktop-bin
-net-misc/dropbox
 net-p2p/transmission
-www-client/chromium
-www-client/firefox
-www-misc/profile-sync-daemon
+@chromium
+@firefox
+app-admin/lastpass-cli
