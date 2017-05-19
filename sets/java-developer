@@ -1,4 +1,4 @@
 @developer
 dev-java/gradle-bin
 dev-java/maven-bin
-dev-java/oracle-jdk-bin
+virtual/jdk
