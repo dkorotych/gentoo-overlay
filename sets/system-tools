@@ -1,0 +1,14 @@
+app-admin/python-updater
+app-admin/sudo
+app-portage/eix
+app-portage/euses
+app-portage/gentoolkit
+app-portage/layman
+app-shells/bash-completion
+sys-apps/mlocate
+sys-auth/nss-mdns
+sys-boot/efibootmgr
+sys-fs/dosfstools
+virtual/cron
+virtual/editor
+virtual/logger

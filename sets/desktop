@@ -1,8 +1,7 @@
+@system-tools
 @gnome
 @java-developer
 @office
-dev-util/meld
-app-shells/bash-completion
 media-libs/libtxc_dxtn
 net-im/skypeforlinux
 net-im/telegram-desktop-bin
