@@ -3,6 +3,7 @@
 @java-developer
 @office
 dev-util/meld
+gnome-extra/nautilus-dropbox
 media-libs/libtxc_dxtn
 net-im/skypeforlinux
 net-im/telegram-desktop-bin

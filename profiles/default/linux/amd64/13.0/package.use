@@ -13,7 +13,7 @@ dev-vcs/git                         -gtk
 gnome-base/gnome-extra-apps         -games
 gnome-base/gvfs                     archive bluray fuse google gphoto2 ios mtp samba
 gnome-extra/evolution-data-server   google
-#gnome-extra/sushi                  office
+gnome-extra/sushi                   office
 mail-client/evolution               archive geolocation highlight
 media-libs/gegl                     raw
 media-libs/libvpx                   postproc
@@ -25,7 +25,6 @@ net-fs/samba                        client
 net-libs/gtk-vnc                    python
 net-misc/curl                       http2 metalink rtmp samba threads
 net-misc/dhcp                       -server
-net-misc/dropbox                    -X -librsync-bundled
 net-misc/networkmanager             -wext wifi
 net-misc/spice-gtk                  usbredir
 net-wireless/wpa_supplicant         p2p wps
