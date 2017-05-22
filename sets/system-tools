@@ -9,6 +9,11 @@ sys-apps/mlocate
 sys-auth/nss-mdns
 sys-boot/efibootmgr
 sys-fs/dosfstools
+sys-fs/exfat-utils
+sys-fs/fuse-exfat
+sys-fs/ntfs3g
+sys-process/htop
+sys-process/lsof
 virtual/cron
 virtual/editor
 virtual/logger
