@@ -1,4 +1,6 @@
 app-emulation/docker                overlay -device-mapper
+app-emulation/libvirt               fuse libssh lxc nfs pcap uml virt-network virtualbox
+app-emulation/qemu                  -ncurses qemu_softmmu_targets_i386 qemu_user_targets_i386 qemu_user_targets_x86_64 sdl sdl2 snappy spice ssh vte
 app-misc/tracker                    firefox-bookmarks gsf playlist rss -ffmpeg
 app-office/libreoffice              -bluetooth gtk3 googledrive jemalloc
 app-portage/layman                  git mercurial subversion sync-plugin-portage
@@ -8,6 +10,7 @@ dev-java/gradle-bin                 source doc
 dev-java/junit                      source
 dev-java/oracle-jdk-bin             alsa derby doc javafx jce source visualvm
 dev-java/swing-layout               source
+dev-libs/libpcre                    pcre16
 dev-util/netbeans                   -l10n_en
 dev-vcs/git                         -gtk
 gnome-base/gnome-extra-apps         -games
@@ -21,6 +24,8 @@ media-libs/mesa                     d3d9 xa xvmc
 media-plugins/gst-plugins-meta      dv http mms taglib theora v4l vcd vpx wavpack
 media-video/ffmpeg                  bluray cdio ieee1394 librtmp libv4l v4l openh264 theora vpx wavpack x265
 media-video/libav                   cdio ieee1394 rtmp theora threads vpx wavpack x265 samba
+net-dns/dnsmasq                     script
+net-firewall/iptables               ipv6
 net-fs/samba                        client
 net-libs/gtk-vnc                    python
 net-misc/curl                       http2 metalink rtmp samba threads
