@@ -8,7 +8,7 @@ readonly profile_name=merged-profile
 
 readonly parent=$(cat <<END
 gentoo:default/linux/amd64/13.0/desktop/gnome/systemd
-dell-vostro-3560:targets/dell-vostro-3560/native
+dell-vostro-3560:targets/notebook/native
 dkorotych-overlay:targets/desktop
 END
 )
