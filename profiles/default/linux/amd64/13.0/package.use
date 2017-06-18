@@ -1,6 +1,7 @@
 app-emulation/docker                overlay -device-mapper
 app-emulation/libvirt               fuse libssh lxc nfs pcap uml virt-network virtualbox
 app-emulation/qemu                  -ncurses qemu_softmmu_targets_i386 qemu_user_targets_i386 qemu_user_targets_x86_64 sdl sdl2 snappy spice ssh vte
+app-emulation/virtualbox            -sdk qt4 vnc
 app-misc/tracker                    firefox-bookmarks gsf playlist rss -ffmpeg
 app-office/libreoffice              -bluetooth gtk3 googledrive jemalloc
 app-portage/layman                  git mercurial subversion sync-plugin-portage
