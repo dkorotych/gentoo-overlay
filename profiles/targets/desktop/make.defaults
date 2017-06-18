@@ -4,8 +4,8 @@ USE="${USE} ${DISABLE_SUPPORT} ${OPTIMIZATION} gtk3 gtkstyle caps ibus idn jit n
 
 FEATURES="cgroup clean-logs compress-build-logs compressdebug noinfo"
 
-LINGUAS="en ru"
-L10N="en ru"
+LINGUAS="-* en ru"
+L10N="-* en ru"
 
 NETBEANS_MODULES="apisupport java javafx profiler websvccommon enterprise extide groovy webcommon"
 
