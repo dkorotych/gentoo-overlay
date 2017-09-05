@@ -8,6 +8,3 @@ LINGUAS="-* en ru"
 L10N="-* en ru"
 
 NETBEANS_MODULES="apisupport java javafx profiler websvccommon enterprise extide groovy webcommon"
-
-DISTDIR="/opt/distfiles"
-PKGDIR="${DISTDIR}/packages"
