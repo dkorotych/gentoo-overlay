@@ -1,5 +1,6 @@
 app-admin/python-updater
 app-admin/sudo
+app-editors/nano
 app-portage/eix
 app-portage/euses
 app-portage/gentoolkit
@@ -14,6 +15,7 @@ sys-fs/fuse-exfat
 sys-fs/ntfs3g
 sys-process/htop
 sys-process/lsof
+sys-process/systemd-cron
 virtual/cron
 virtual/editor
 virtual/logger
