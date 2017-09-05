@@ -42,5 +42,5 @@ sys-libs/tdb                        python
 sys-libs/tevent                     python
 sys-libs/zlib                       minizip
 virtual/ffmpeg                      theora threads
-www-client/firefox                  hwaccel wifi
+www-client/firefox                  hwaccel pgo wifi
 x11-themes/arc-theme                gtk2 gtk3 gnome-shell
