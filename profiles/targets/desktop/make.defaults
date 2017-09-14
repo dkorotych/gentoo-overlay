@@ -6,6 +6,8 @@ EMERGE_DEFAULT_OPTS="--quiet-build=y ${EMERGE_DEFAULT_OPTS}"
 
 FEATURES="cgroup clean-logs compress-build-logs compressdebug noinfo"
 
+VIDEO_CARDS="qlx"
+
 LINGUAS="-* en ru"
 L10N="-* en ru"
 
